@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Trackofy App Updates</title>
+    <item>
+      <title>Version 2.0.0</title>
+      <description>New update available!</description>
+      <pubDate>Fri, 30 Jan 2026 10:00:00 +0000</pubDate>
+      <enclosure
+        url="https://play.google.com/store/apps/details?id=com.trackofynew.trackofy2"
+        sparkle:version="2.0.0"
+        sparkle:os="android" />
+    </item>
+  </channel>
+</rss>
