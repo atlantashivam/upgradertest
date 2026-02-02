@@ -5,9 +5,9 @@
     <title>Trackofy App Updates</title>
 
     <item>
-      <title>Version 1.0.21</title>
+      <title>Trackofy 1.0.21</title>
       <description>
-        This is a test release with the same version as the installed app.
+        Test build — same version as installed app (1.0.21).
       </description>
       <pubDate>Mon, 02 Feb 2026 06:00:00 +0000</pubDate>
 
@@ -19,7 +19,3 @@
 
   </channel>
 </rss>
-
-
-
-
