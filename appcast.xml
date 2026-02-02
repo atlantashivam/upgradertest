@@ -5,7 +5,7 @@
     <title>Trackofy App Updates</title>
 
     <item>
-      <title>Version 2.0.0</title>
+      <title>Version 1.0.21</title>
       <description>
         This is a test release with the same version as the installed app.
       </description>
@@ -13,10 +13,11 @@
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.trackofynew.trackofy2"
-        sparkle:version="2.0.0"
+        sparkle:version="1.0.21"
         sparkle:os="android" />
     </item>
 
   </channel>
 </rss>
+
 
