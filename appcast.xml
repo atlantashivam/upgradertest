@@ -5,15 +5,15 @@
     <title>Trackofy App Updates</title>
 
     <item>
-      <title>Trackofy 2.0.0</title>
+      <title>Trackofy 1.0.21</title>
       <description>
-        Test build — same version as installed app (2.0.0).
+        Test build — same version as installed app (1.0.21).
       </description>
       <pubDate>Mon, 02 Feb 2026 06:00:00 +0000</pubDate>
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=com.trackofynew.trackofy2"
-        sparkle:version="2.0.0"
+        sparkle:version="1.0.21"
         sparkle:os="android" />
     </item>
 
